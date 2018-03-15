@@ -213,28 +213,6 @@
         "IsCollection": false
       },
       {
-        "Id": "27e90124-d7b4-42a9-9677-2cf9d2d65a5f",
-        "Topic": "【金門美食】菜單支援",
-        "Author": "j09755197@gmail.com",
-        "AuthorIcon": "",
-        "StoreId": "0f4ad897-db60-40cb-9b8b-79feab199613",
-        "BrowseCount": 38,
-        "Content": "",
-        "Collection": 0,
-        "IsTop": false,
-        "Image": "22c9b040-5c9d-4f66-a454-d27000f18837.png",
-        "Images": [
-          "http://taokehang.nqu.edu.tw/Upload/News/22c9b040-5c9d-4f66-a454-d27000f18837.png"
-        ],
-        "Remark": "",
-        "AuthorName": "林傳勳",
-        "StoreName": "樂華便當",
-        "UpdateTime": "2017-12-13T12:22:23",
-        "CreateTime": "2017-12-13T12:22:23",
-        "IsShowCollection": true,
-        "IsCollection": false
-      },
-      {
         "Id": "3ae5dacb-b64f-44c1-b58c-2a9857ba922f",
         "Topic": "伍師傅車輪餅",
         "Author": "freyia@gmail.com",
@@ -275,26 +253,6 @@
         "StoreName": "樸樂咖啡",
         "UpdateTime": "2017-11-25T01:09:39",
         "CreateTime": "2017-11-25T01:09:39",
-        "IsShowCollection": true,
-        "IsCollection": false
-      },
-      {
-        "Id": "2a532a19-11d2-43be-bd3f-0984f75e2afd",
-        "Topic": "【金門美食】現在一碗80元噢",
-        "Author": "jen38383@yahoo.com.tw",
-        "AuthorIcon": "",
-        "StoreId": "6aca24ad-5e0a-47da-ae36-d0d7515f1189",
-        "BrowseCount": 74,
-        "Content": "",
-        "Collection": 0,
-        "IsTop": false,
-        "Image": "",
-        "Images": [],
-        "Remark": "",
-        "AuthorName": "美夢成真",
-        "StoreName": "壽記廣東粥",
-        "UpdateTime": "2017-11-23T10:43:45",
-        "CreateTime": "2017-11-23T10:43:45",
         "IsShowCollection": true,
         "IsCollection": false
       }
