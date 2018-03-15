@@ -1,5 +1,5 @@
 {
-  "result": {
+  "result1": {
     "ReturnCode": 100,
     "ReturnMessage": "成功",
     "ReturnData": [
@@ -182,6 +182,121 @@
         "Distance": 7533,
         "UpdateTime": "2018-03-15T09:26:26.1075516+08:00",
         "CreateTime": "2018-03-15T09:26:26.1075516+08:00"
+      }
+    ]
+  },
+  "result2": {
+    "ReturnCode": 100,
+    "ReturnMessage": "成功",
+    "ReturnData": [
+      {
+        "Id": "d05ceef4-a596-4d82-a4c6-dc11be81d4a5",
+        "Topic": "【貪吃鬼小茄】食為天",
+        "Author": "freyia@gmail.com",
+        "AuthorIcon": "",
+        "StoreId": "f3758b67-ea8a-490f-affc-eb2389670bc5",
+        "BrowseCount": 18,
+        "Content": "超級漂亮的蔬菜盤",
+        "Collection": 0,
+        "IsTop": false,
+        "Image": "22e74a09-21ee-4919-932a-76b98e7b024c.png,d3b895cb-b2ff-4c7c-96b4-38048504c6e4.png",
+        "Images": [
+          "http://taokehang.nqu.edu.tw/Upload/News/22e74a09-21ee-4919-932a-76b98e7b024c.png",
+          "http://taokehang.nqu.edu.tw/Upload/News/d3b895cb-b2ff-4c7c-96b4-38048504c6e4.png"
+        ],
+        "Remark": "",
+        "AuthorName": "貪吃鬼小茄",
+        "StoreName": "食為天鍋物",
+        "UpdateTime": "2017-12-24T10:13:20",
+        "CreateTime": "2017-12-24T10:13:20",
+        "IsShowCollection": true,
+        "IsCollection": false
+      },
+      {
+        "Id": "27e90124-d7b4-42a9-9677-2cf9d2d65a5f",
+        "Topic": "【金門美食】菜單支援",
+        "Author": "j09755197@gmail.com",
+        "AuthorIcon": "",
+        "StoreId": "0f4ad897-db60-40cb-9b8b-79feab199613",
+        "BrowseCount": 38,
+        "Content": "",
+        "Collection": 0,
+        "IsTop": false,
+        "Image": "22c9b040-5c9d-4f66-a454-d27000f18837.png",
+        "Images": [
+          "http://taokehang.nqu.edu.tw/Upload/News/22c9b040-5c9d-4f66-a454-d27000f18837.png"
+        ],
+        "Remark": "",
+        "AuthorName": "林傳勳",
+        "StoreName": "樂華便當",
+        "UpdateTime": "2017-12-13T12:22:23",
+        "CreateTime": "2017-12-13T12:22:23",
+        "IsShowCollection": true,
+        "IsCollection": false
+      },
+      {
+        "Id": "3ae5dacb-b64f-44c1-b58c-2a9857ba922f",
+        "Topic": "伍師傅車輪餅",
+        "Author": "freyia@gmail.com",
+        "AuthorIcon": "",
+        "StoreId": "ace3c414-502a-419d-9093-0dfb47e9f654",
+        "BrowseCount": 32,
+        "Content": "皮薄餡多，真材實料，不死甜，吃的到食材原味????????",
+        "Collection": 0,
+        "IsTop": false,
+        "Image": "7b8b0275-e7a3-4ca9-bab3-03796284d334.png",
+        "Images": [
+          "http://taokehang.nqu.edu.tw/Upload/News/7b8b0275-e7a3-4ca9-bab3-03796284d334.png"
+        ],
+        "Remark": "",
+        "AuthorName": "貪吃鬼小茄",
+        "StoreName": "伍師傅車輪餅",
+        "UpdateTime": "2017-12-08T12:12:47",
+        "CreateTime": "2017-12-08T12:12:47",
+        "IsShowCollection": true,
+        "IsCollection": false
+      },
+      {
+        "Id": "978d37ec-ad91-4216-aef8-84ded88bc5c3",
+        "Topic": "樸樂活動～早鳥優惠 - 四人同行一人免費",
+        "Author": "tom25677896@yahoo.com.tw",
+        "AuthorIcon": "http://taokehang.nqu.edu.tw/Upload/User/dd69beb9-0b57-4be0-bb2f-20aa0a867556.png",
+        "StoreId": "f72e8c44-0bf9-4c5d-876d-03160b87f996",
+        "BrowseCount": 105,
+        "Content": "早鳥優惠 - 四人同行一人免費。\n\n#假日早午餐限定\n來電預約訂位 四人同行一人免費（以低價減免）\n#限定五組客人\n快拿起您的電話預約訂位，享受美好的週末假期吧\n\n#本週精選\n香煎雞腿貝里尼 $ 189元\n\n清香油煎雞腿夾進貝里尼 \n搭配生菜與炸物 讓您飽足感滿分 精神滿分\n再來杯美式咖啡做完美句點吧",
+        "Collection": 2,
+        "IsTop": false,
+        "Image": "a86f0c25-ff05-4e2f-ab18-8379861eb9d7.png",
+        "Images": [
+          "http://taokehang.nqu.edu.tw/Upload/News/a86f0c25-ff05-4e2f-ab18-8379861eb9d7.png"
+        ],
+        "Remark": "",
+        "AuthorName": "Cyc ",
+        "StoreName": "樸樂咖啡",
+        "UpdateTime": "2017-11-25T01:09:39",
+        "CreateTime": "2017-11-25T01:09:39",
+        "IsShowCollection": true,
+        "IsCollection": false
+      },
+      {
+        "Id": "2a532a19-11d2-43be-bd3f-0984f75e2afd",
+        "Topic": "【金門美食】現在一碗80元噢",
+        "Author": "jen38383@yahoo.com.tw",
+        "AuthorIcon": "",
+        "StoreId": "6aca24ad-5e0a-47da-ae36-d0d7515f1189",
+        "BrowseCount": 74,
+        "Content": "",
+        "Collection": 0,
+        "IsTop": false,
+        "Image": "",
+        "Images": [],
+        "Remark": "",
+        "AuthorName": "美夢成真",
+        "StoreName": "壽記廣東粥",
+        "UpdateTime": "2017-11-23T10:43:45",
+        "CreateTime": "2017-11-23T10:43:45",
+        "IsShowCollection": true,
+        "IsCollection": false
       }
     ]
   }
